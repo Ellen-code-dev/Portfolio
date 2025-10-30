@@ -19,7 +19,7 @@ title: Ellen Sirleaf # the main title
 tagline: Cybersecurity | Data Science | AI & ML | Ethical Hacking # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-   A passionate Math and Computer Science enthusiast driven by curiosity and purpose.  
+  A passionate Math and Computer Science enthusiast driven by curiosity and purpose.  
   I thrive at the intersection of Data Science and Cybersecurity — extracting insights that empower decisions while safeguarding the data that fuels them.  
   With growing expertise in Artificial Intelligence, Machine Learning, and Penetration Testing, I aim to bridge the gap between intelligent analytics and digital resilience.  
   My mission is to make data not only powerful, but protected.
@@ -45,7 +45,7 @@ social:
     - https://github.com/Ellen-code-dev # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/ellen-sirleaf-745905302/
+    - https://www.linkedin.com/in/ellen-sirleaf-745905302/
 
 # Site Verification Settings
 webmaster_verifications:
