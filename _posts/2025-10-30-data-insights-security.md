@@ -3,8 +3,6 @@ title: "Bridging Intelligence and Security: My Journey at the Intersection of Da
 date: 2025-10-30 10:30:00 +0300
 categories: blog
 tags: [Data Science, Cybersecurity, AI, ML, Ethical Hacking]
-comments: true
-toc: true
 ---
 
 In a world powered by data, the most valuable insights are only as safe as the systems that protect them.  
